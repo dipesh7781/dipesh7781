@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dipesh7781
 - 👀 I’m interested in JAVA 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently Working as Java Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
